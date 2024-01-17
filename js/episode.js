@@ -1,7 +1,7 @@
 const proxy = "https://proxy.techzbots1.workers.dev/?u=";
-const animeapi = "https://api.anime-dex.workers.dev/anime/";
-const episodeapi = "https://api.anime-dex.workers.dev/episode/";
-const dlapi = "https://api.anime-dex.workers.dev/download/";
+const animeapi = "https://api.hdmovielover.workers.dev/anime/";
+const episodeapi = "https://api.hdmovielover.workers.dev/episode/";
+const dlapi = "https://api.hdmovielover.workers.dev/download/";
 
 // Usefull functions
 
