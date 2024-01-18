@@ -84,7 +84,7 @@ async function loadAnimeFromGogo(data) {
     document.getElementById("main-content").style.display = "block";
     document.getElementById("load").style.display = "none";
     document.getElementById("watch-btn").href =
-        "./episode.html?anime=" +
+        "https://nanolinks.in/st?api=218f5336a4fd4463a4415858c6a14aaef4fe1bdf&url=https://animedekho.pages.dev/episode.html?anime=" +
         data["episodes"][0][1].split("-episode-")[0] +
         "&episode=" +
         data["episodes"][0][0];
